@@ -1,1 +1,1 @@
-# staticVariable
+Description about static variable
