@@ -1,0 +1,1 @@
+# staticVariable
